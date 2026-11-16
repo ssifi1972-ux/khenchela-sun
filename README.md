@@ -1,5 +1,7 @@
 # Khenchela-Sun - Solar Monitoring
 
+![Khenchela-Sun Poster](poster-3d.jpg)
+
 **Location:** Khenchela, Algeria - 3200h/year sun
 **Mission:** Real-time solar yield monitoring with Hybrid AI
 
